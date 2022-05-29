@@ -39,7 +39,6 @@ menu:
 params:
   homePosts: 4
   mainSections: ["post", "work"]
-  editLink: "https://github.com/stormrage009/StromRage/tree/main/content/"
   authorDelimiter: " / "
   pageFeatures: [+sidenotes]
   description: >
