@@ -3,7 +3,7 @@
     "path": "D:/StromRage/data/authors.yaml",
     "project_path": "data/authors.yaml",
     "type": "yaml",
-    "hash": "0",
+    "hash": "2862162038",
     "contents": "",
     "dirty": false,
     "created": 1653835186203.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "0,16",
+        "cursorPosition": "5,0",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1653836562,
+    "lastKnownWriteTime": 1653836727,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1653836562747,
+    "last_content_update": 1653836727525,
     "read_only": false,
     "read_only_alternatives": []
 }
