@@ -1,5 +1,5 @@
 baseurl: "/"
-languageCode: "en-us"
+languageCode: "zh-CN"
 defaultContentLanguage: "zh"
 # defaultContentLanguage: "zh"
 title: "铜牙铁岚纪晓嘴"
@@ -37,7 +37,7 @@ menu:
       url: "#"
 
 params:
-  homePosts: 6
+  homePosts: 4
   mainSections: ["post", "work"]
   editLink: "https://github.com/yihui/hugo-prose/edit/master/exampleSite/content/"
   authorDelimiter: " / "
